@@ -1,67 +1,122 @@
+````md
 <div align="center">
 
-# 👋 Hey, I'm Amin
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0D1117,20:161B22,50:1F6FEB,80:58A6FF,100:0D1117&text=MrVScode&fontSize=70&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Building%20The%20Future%20One%20Line%20at%20a%20Time&descAlignY=60"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;Programmer;Building+my+own+Programming+Language;Coffee+%E2%98%95+Lover;Always+Learning"/>
+<br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:58A6FF&height=180&section=header&text=MrVScode&fontColor=ffffff&fontSize=55"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=30&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=900&lines=Hello+World!;I'm+Amin.;Programmer.;Language+Creator.;Coffee+Powered+Developer.;Welcome+to+my+GitHub."/>
 
-![](https://komarev.com/ghpvc/?username=MrVScode&style=for-the-badge&color=blue)
+<br><br>
+
+<img src="https://img.shields.io/badge/Backend-Developer-58A6FF?style=for-the-badge">
+<img src="https://img.shields.io/badge/Open%20Source-Lover-238636?style=for-the-badge">
+<img src="https://img.shields.io/badge/Coffee-☕-8B4513?style=for-the-badge">
+<img src="https://komarev.com/ghpvc/?username=MrVScode&style=for-the-badge&color=58A6FF">
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+# ⚡ System Information
 
-```text
-Name      : Amin
-Username  : MrVScode
-Role      : Programmer
-Focus     : Backend Development
-Project   : Creating My Own Programming Language
-Coffee    : ☕
+```bash
+> whoami
+
+Name        : Amin
+Username    : MrVScode
+Role        : Programmer
+Status      : Online 🟢
+Editor      : VS Code
+OS          : Linux / Windows
+Focus       : Backend
+Project     : Creating My Own Programming Language
 ```
 
 ---
 
-## 🛠 Tech Stack
+<div align="center">
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,c,cpp,html,css,js,bootstrap,git,github,vscode,linux"/>
-</p>
+## ⚙️ Tech Stack
 
----
+<img src="https://skillicons.dev/icons?i=python,c,cpp,lua,html,css,js,bootstrap,git,github,vscode,linux,bash"/>
 
-## 📊 GitHub Stats
-
-<p align="center">
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=MrVScode&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrVScode&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
+</div>
 
 ---
 
-## 🔥 GitHub Streak
+# 🚀 Mission
 
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=MrVScode&theme=tokyonight&hide_border=true"/>
-</p>
+```text
+✓ Build my own Programming Language
 
----
+✓ Create Open Source Projects
 
-## 📈 Contribution Graph
+✓ Learn Something New Every Day
 
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MrVScode&theme=tokyo-night"/>
-</p>
+✓ Write Clean Code
+
+✓ Never Stop Building
+```
 
 ---
 
 <div align="center">
 
-### ⭐ Thanks for visiting my profile!
+## 💻 Favorite Quote
 
-<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:58A6FF,100:0D1117"/>
+> "Code. Learn. Build. Repeat."
 
 </div>
+
+---
+
+<div align="center">
+
+## 🌌 My Workspace
+
+💻 VS Code  
+☕ Coffee  
+🎧 Music  
+🌙 Late Night Coding  
+
+</div>
+
+---
+
+<div align="center">
+
+## 📂 Featured Projects
+
+🧠 My Programming Language
+
+🌐 Web Applications
+
+⚡ Backend APIs
+
+🛠 Developer Tools
+
+</div>
+
+---
+
+<div align="center">
+
+## 📫 Find Me
+
+<a href="https://github.com/MrVScode">
+<img src="https://skillicons.dev/icons?i=github" width="55">
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=170&color=0:0D1117,40:1F6FEB,100:58A6FF"/>
+
+### ⭐ Thanks for visiting my profile ⭐
+
+</div>
+````
