@@ -1,48 +1,111 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=260&text=MrVScode&fontSize=65&color=0:58A6FF,100:0D1117&fontColor=ffffff"/>
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hello, I'm MrVScode
 
-<h1>⚡ MrVScode ⚡</h1>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=28&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Programmer;Building+My+Own+Programming+Language;Backend+Developer;Coffee+Powered;Always+Learning"/>
 
-<h3>Programmer • Language Creator • Backend Developer</h3>
+<br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Welcome+to+my+GitHub;Building+My+Own+Programming+Language;Open+Source+Developer;Coffee+%E2%98%95"/>
-
-<p>
-
-<img src="https://img.shields.io/badge/Code-Clean-blue?style=for-the-badge">
-
-<img src="https://img.shields.io/badge/Open-Source-success?style=for-the-badge">
-
-<img src="https://img.shields.io/badge/Backend-Developer-1F6FEB?style=for-the-badge">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0D1117,40:1F6FEB,100:58A6FF&section=header"/>
 
 <img src="https://komarev.com/ghpvc/?username=MrVScode&style=for-the-badge&color=blue">
-
-</p>
 
 </div>
 
 ---
 
-# 💻 TERMINAL
+# ⚡ About Me
+
+```yaml
+Name: Amin
+Username: MrVScode
+Role: Programmer
+
+Currently:
+  - Building my own Programming Language
+  - Backend Development
+  - Open Source
+
+Coffee: ☕ ☕ ☕ ☕ ☕
+```
+
+---
+
+# 💻 Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,c,cpp,lua,html,css,js,bootstrap,git,github,vscode,linux,bash"/>
+
+</p>
+
+---
+
+# 🧠 Current Focus
+
+```text
+██████████████████████░░░░ 80%
+
+✓ Programming Language
+
+✓ Backend APIs
+
+✓ Web Development
+
+✓ Clean Code
+
+✓ Open Source
+```
+
+---
+
+# 🖥 Terminal
 
 ```bash
 $ whoami
 
-> Amin
+MrVScode
 
-$ role
+$ cat skills.txt
 
-> Programmer
+Python
+C
+C++
+Lua
+HTML
+CSS
+JavaScript
+Bootstrap
+Git
 
-$ current_project
+$ echo "Never Stop Building"
 
-> Building My Own Programming Language
+Never Stop Building
+```
 
-$ favorite_editor
+---
 
-> Visual Studio Code
+# 🚀 Featured Projects
 
-$ coffee
+| Project | Description |
+|---------|-------------|
+| 🚀 Programming Language | My own programming language |
+| 🌐 Website | Modern responsive websites |
+| ⚙️ Backend | APIs & Servers |
+| 🧩 Tools | Developer utilities |
 
-> Unlimited ☕
+---
+
+# 💭 Quote
+
+> **"The best way to predict the future is to build it."**
+
+---
+
+<div align="center">
+
+### 🌌 Thanks for visiting 🌌
+
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=140&color=0:58A6FF,100:0D1117"/>
+
+</div>
